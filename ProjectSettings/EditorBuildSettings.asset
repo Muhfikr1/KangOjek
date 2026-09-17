@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bf75e0ccb03ead747906e0be8b360be0
+  - enabled: 1
+    path: Assets/Scenes/Menu/MenuMap.unity
+    guid: fb3cbb853f07c4c48a839e1155ab07d6
+  - enabled: 1
+    path: Assets/Scenes/Menu/MenuMotor.unity
+    guid: 6f9a47afe8ce71a468d9d39afd4e2520
+  - enabled: 1
+    path: Assets/Scenes/MAP/Map_0.unity
+    guid: 74540a76e26c0524cafc02c0aef9a57f
+  - enabled: 1
+    path: Assets/Scenes/MAP/Map_1.unity
+    guid: ee83f00de208e4647987e3051484d0ce
+  - enabled: 1
+    path: Assets/Scenes/MAP/Map_2.unity
+    guid: 16091545561587e47afd703a5e89c331
+  - enabled: 1
+    path: Assets/Scenes/MAP/Map_3.unity
+    guid: ace3d25e8837d51408da29e7440edfb6
+  - enabled: 1
+    path: Assets/Scenes/MAP/Map_4.unity
+    guid: f3cd41dffabfc1845817a4d85d906d74
+  - enabled: 1
+    path: Assets/Scenes/setting.unity
+    guid: ebc24445640263b4e9e45274c169e81e
+  m_configObjects:
+    com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: 9b529e442d9d8f34eb058384d2e1dc87, type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 1d2c72555214779489a4b7ecbbc6b9b8, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: f4f4472071a16214fb6c43e55c6da6f0, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f962a9d1b76cf0b47a90f80af456abcc, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
